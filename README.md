@@ -1,7 +1,7 @@
 # leaf-disease-identify
 AI solution that uses pytorch and ResNet CNN to identify leaf disease among agricultural plants
 
-# "agrotech.ipynb"
+# "agrotech (1).ipynb"
 This file is prefferable way of testing our solution, as it does not require additional packages to be installed
 
 # "test.zip"
