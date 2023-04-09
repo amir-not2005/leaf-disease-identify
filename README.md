@@ -8,4 +8,5 @@ This file is prefferable way of testing our solution, as it does not require add
 In the "test.zip" file it is possible to find test images that we did not use for training our model. These can be used to check how does the solution work
 
 # "plant-disease-model-complete.pth"
+Please note, that this file can be installed if tested with "agrotech (1).ipynb" file
 It is the model of our AI solution that gives more than 99% accuracy (val_acc: 0.9923)
